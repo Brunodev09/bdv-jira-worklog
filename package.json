@@ -1,0 +1,12 @@
+{
+  "name": "bdv-node-input",
+  "version": "1.0.0",
+  "description": "Script to read user input stream.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "brunodev09",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}

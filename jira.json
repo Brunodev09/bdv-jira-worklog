@@ -1,0 +1,9 @@
+{
+    "jira-base-url": "",
+    "jira-email": "",
+    "jira-token": "",
+    "issues": {
+        "daily": "",
+        "knowledge-transfer": ""
+    }
+}
