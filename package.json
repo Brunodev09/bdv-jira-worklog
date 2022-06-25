@@ -7,6 +7,6 @@
   "author": "brunodev09",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.7"
   }
 }
